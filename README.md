@@ -26,7 +26,7 @@ https://developers.themoviedb.org/3/getting-started/introduction
 Clone the project
 
 ```bash
-
+git clone https://github.com/abhishek-38/movie-recommendation.git
 ```
 
 Install Python Libraries
